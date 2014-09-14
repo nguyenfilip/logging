@@ -16,7 +16,6 @@
     <module>slf4j</module>
     <module>log4j</module>
     <module>spring-commons</module>
-    <module>spring-log4j</module>
     <module>utils-logging</module>
   </modules>
 </project>
